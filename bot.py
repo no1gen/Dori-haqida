@@ -8,7 +8,6 @@ Dori nomi yoki rasmini yuboring — to'liq ma'lumot oling.
 import os
 import logging
 import base64
-import httpx
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import (
     Application,
